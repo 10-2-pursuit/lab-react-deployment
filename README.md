@@ -10,7 +10,7 @@
 
 1. Deploy this application to Netlify and add the link to your Netlify site below:
 
-- [MY LIVE SITE URL]()
+- [MY LIVE SITE URL](https://moonlit-griffin-02f379.netlify.app/)
 
 ## Instructions
 
